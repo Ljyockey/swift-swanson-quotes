@@ -1,0 +1,1 @@
+This app uses the <a href="https://github.com/jamesseanwright/ron-swanson-quotes">Ron Swanson Quotes API</a><br>
