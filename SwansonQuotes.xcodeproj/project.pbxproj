@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A4FFEED01F6608D200069D5C = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = GDX67723HN;
 						ProvisioningStyle = Automatic;
 					};
 					A4FFEEE41F6608D200069D5C = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GDX67723HN;
 				INFOPLIST_FILE = SwansonQuotes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yockeytechnologies.SwansonQuotes;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GDX67723HN;
 				INFOPLIST_FILE = SwansonQuotes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yockeytechnologies.SwansonQuotes;
